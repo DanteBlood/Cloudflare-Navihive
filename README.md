@@ -438,4 +438,4 @@ A: NaviHive 使用两个主要表格：
   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zqq-nuli/Cloudflare-Navihive&type=Date" />
 </picture>
 
-**NaviHive** - 让网站导航更简单、更美观！
+**NaviHive** - 让网站导航更简单、更美观！ 
